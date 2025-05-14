@@ -1,6 +1,6 @@
 [submodule "myHR-back"]
-	path = myhr-back
-	url = https://github.com/lshdainty/myHR-back.git
+	path = myHR-back
+	url = https://github.com/lshdainty/myHR-back.git myhr-back
 [submodule "myHR-front"]
-	path = myhr-front
-	url = https://github.com/lshdainty/myHR-front.git
+	path = myHR-front
+	url = https://github.com/lshdainty/myHR-front.git myhr-front
