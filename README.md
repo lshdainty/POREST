@@ -46,10 +46,40 @@ Golang 사용자가 Java Spring Boot, React를 공부하고자 시작했으며
 ![vscode](https://img.shields.io/badge/vscode-000000.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iODAwIiB2aWV3Qm94PSItMC41NSAwIDIzNS4xIDIzNS4xIj48cGF0aCBkPSJtODMuMyAxNDMuOS01OCA0NS4yTDAgMTc2LjVWNTguN0wyNS4yIDQ2bDU3LjYgNDUuM0wxNzQgMGw2MCAyMy45djE4Ni45bC01OS43IDI0LjMtOTEtOTEuMnptODguOSAxNS45Vjc1LjNsLTU0LjYgNDIuMyA1NC42IDQyLjJ6TTI3LjMgMTQ0LjYgNTYgMTE4LjUgMjcuMyA4OS45djU0Ljd6IiBzdHlsZT0iZmlsbDojMDE3OWNiIi8+PC9zdmc+&style=for-the-badge)
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=Perplexity&logoColor=white&logoSize=auto)
 
-## Install
-해당 Repository는 backend와 frontend의 Repository 링크만 연결되어있습니다.
+## Project Clone
+해당 Repository는 Front, Back Repository 링크만 연결되어있습니다.   
 commit은 각각의 프로젝트 폴더 안에서 실행해야 합니다.
 ### Clone
 ```bash
-git clone --recurse-submodules cloneURL
+git clone --recurse-submodules https://github.com/lshdainty/myHR.git
+```
+### Submodule checkout branch
+```bash
+git checkout main
+```
+### Submodule file add
+```bash
+git add FileName
+```
+### Submodule commit 
+```bash
+git commit -m "msg"
+```
+### Submodule push 
+```bash
+git push origin main
+```
+### Submodule push 
+```bash
+git push origin main
+```
+### Mainmodule commit
+```bash
+git commit -a
+## 파일 열리면 message 작성
+## 예시) 25.05.15 입력 후 :wq
+```
+### Mainmodule push
+```bash
+git push origin main
 ```
