@@ -50,7 +50,7 @@
 commit은 각각의 프로젝트 폴더 안에서 실행해야 합니다.
 ### Clone
 ```bash
-git clone --recurse-submodules https://github.com/lshdainty/myHR.git
+git clone --recurse-submodules https://github.com/lshdainty/POREST.git
 ```
 ### Submodule checkout branch
 ```bash
