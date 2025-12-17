@@ -1,6 +1,9 @@
-[submodule "myHR-back"]
-	path = myHR-back
-	url = https://github.com/lshdainty/myHR-back.git
-[submodule "myHR-front"]
-	path = myHR-front
-	url = https://github.com/lshdainty/myHR-front.git
+[submodule "porest-back"]
+	path = porest-back
+	url = https://github.com/lshdainty/porest-back.git
+[submodule "porest-front"]
+	path = porest-front
+	url = https://github.com/lshdainty/porest-front.git
+[submodule "porest-docs"]
+	path = porest-docs
+	url = https://github.com/lshdainty/porest-docs.git
