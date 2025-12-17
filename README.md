@@ -81,7 +81,6 @@
 |------------|-------------|
 | [porest-front](https://github.com/lshdainty/porest-front) | React 기반 프론트엔드 |
 | [porest-back](https://github.com/lshdainty/porest-back) | Spring Boot 기반 백엔드 |
-| [porest-back-common](https://github.com/lshdainty/porest-back-common) | 백엔드 공통 라이브러리 |
 
 ---
 
